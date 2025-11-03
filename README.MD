@@ -8,4 +8,6 @@ sudo ./setup.sh
 
 将会创建三个设备 /dev/hidg0  /dev/hidg1  /dev/hidg2
 
-分别为 触屏 鼠标 键盘
+分别为 触屏 键盘 鼠标
+
+控制格式见usage_example.py
